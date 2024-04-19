@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (CGIH_G4_Castro.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  main_prac04.cpp
+  CGIH_Castro.vcxproj -> C:\Users\lulas\OneDrive\Documentos\Visual Studio 2022\CGIH_Castro\Debug\CGIH_Castro.exe

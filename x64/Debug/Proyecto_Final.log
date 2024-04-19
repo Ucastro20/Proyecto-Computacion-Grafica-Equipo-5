@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (CGIH_Castro.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  20242.cpp
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+  (compilando archivo de origen "20242.cpp")
+  
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\include\mesh.h(88,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "20242.cpp")
+  
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\include\meshAnim.h(116,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  (compilando archivo de origen "20242.cpp")
+  
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "20242.cpp")
+  
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "20242.cpp")
+  
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(367,28): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(552,27): warning C4244: '=': conversión de 'Uint64' a 'double'; posible pérdida de datos
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(1116,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(1117,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(1124,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(1125,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(1127,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(1127,30): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\Proyecto_Final\20242.cpp(1132,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Proyecto_Final.vcxproj -> C:\Users\ASUS\OneDrive\Documentos\Visual Studio 2022\Proyecto_Final\x64\Debug\Proyecto_Final.exe
